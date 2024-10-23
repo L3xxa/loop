@@ -1,7 +1,5 @@
-
-
-
 import unittest
+from unittest.mock import patch
 from main import multiplication_table
 class TestMultiplicationTable(unittest.TestCase):
 
