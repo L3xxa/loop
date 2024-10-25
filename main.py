@@ -1,2 +1,3 @@
-if __name__ == '__main__':
-    pass
+from function import desk
+
+desk(1)
